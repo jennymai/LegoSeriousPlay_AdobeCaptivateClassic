@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 162 159" id="Layer_2"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#fd8024;}</style></defs><g id="Layer_1-2"><rect data-cppathid="10000" ry="79.5" rx="79.5" height="159" width="162" y="0" class="cls-2"/><polygon data-cppathid="10001" points="120 123 43 123 43 60 83 24 120 60 120 123" class="cls-1"/><rect data-cppathid="10002" height="39" width="12" y="33" x="103" class="cls-1"/></g></svg>
